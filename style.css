@@ -4,6 +4,10 @@
     overflow: hidden;
     width: 29%;
     margin: auto;
+    background-color: aquamarine;
+}
+.row{
+    background-color: darkseagreen;
 }
 .card-img img{
     height: 250px;
